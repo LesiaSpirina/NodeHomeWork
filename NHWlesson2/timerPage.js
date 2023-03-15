@@ -1,3 +1,12 @@
+// первое задание
+//  Record 1
+//  Record 5
+//  Record 6
+//  Record 2
+//  Record 3
+//  Record 4
+
+
 import EventEmitter from "events";
 
 class TimerEmitter extends EventEmitter {}
